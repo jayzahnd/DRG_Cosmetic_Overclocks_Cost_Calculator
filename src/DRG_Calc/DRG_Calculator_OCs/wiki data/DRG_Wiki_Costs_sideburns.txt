@@ -1,0 +1,142 @@
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----Sideburns---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Berserker 	
+Berserker.png
+	Anger Management Courses every tuesday at seven on Deck twelve. 	Credit.png 5000 Credits
+
+Magnite 70 Magnite
+Umanite 30 Umanite
+	Credit.png 4450 Credits
+
+Jadiz 75 Jadiz
+Magnite 30 Magnite
+	Credit.png 4100 Credits
+
+Magnite 80 Magnite
+Jadiz 25 Jadiz
+	Credit.png 4650 Credits
+
+Magnite 60 Magnite
+Croppa 30 Croppa
+Braided Bangles 	
+Braided Bangles.png
+	An unusual set of sideburns, but with a certain air of mystique. 	Credit.png 8100 Credits
+
+Enor pearl 145 Enor Pearl
+Bismor 50 Bismor
+Croppa 95 Croppa
+	Credit.png 8700 Credits
+
+Croppa 160 Croppa
+Enor pearl 50 Enor Pearl
+Bismor 95 Bismor
+	Credit.png 8050 Credits
+
+Enor pearl 140 Enor Pearl
+Magnite 50 Magnite
+Umanite 100 Umanite
+	Credit.png 8400 Credits
+
+Croppa 145 Croppa
+Jadiz 60 Jadiz
+Enor pearl 90 Enor Pearl
+Immense Danglies 	
+Immense Danglies.png
+	Silky soft! What conditioner do you use? 	Credit.png 6450 Credits
+
+Magnite 140 Magnite
+Enor pearl 55 Enor Pearl
+Umanite 80 Umanite
+	Credit.png 6350 Credits
+
+Bismor 145 Bismor
+Jadiz 55 Jadiz
+Magnite 95 Magnite
+	Credit.png 6150 Credits
+
+Bismor 155 Bismor
+Jadiz 60 Jadiz
+Umanite 90 Umanite
+	Credit.png 7300 Credits
+
+Enor pearl 155 Enor Pearl
+Magnite 45 Magnite
+Bismor 90 Bismor
+Pointed Noble 	
+Pointed Noble.png
+	Just oozes prestige and nobility 	Credit.png 4100 Credits
+
+Enor pearl 75 Enor Pearl
+Bismor 30 Bismor
+	Credit.png 4850 Credits
+
+Enor pearl 70 Enor Pearl
+Croppa 35 Croppa
+	Credit.png 4900 Credits
+
+Croppa 75 Croppa
+Jadiz 30 Jadiz
+	Credit.png 4400 Credits
+
+Jadiz 75 Jadiz
+Magnite 30 Magnite
+The Thickest 	
+The Thickest.png
+	For some dwarves, it's all about VOLUME! 	Credit.png 4750 Credits
+
+Umanite 80 Umanite
+Enor pearl 35 Enor Pearl
+	Credit.png 4800 Credits
+
+Jadiz 80 Jadiz
+Umanite 35 Umanite
+	Credit.png 4750 Credits
+
+Umanite 65 Umanite
+Magnite 25 Magnite
+	Credit.png 4850 Credits
+
+Umanite 75 Umanite
+Bismor 25 Bismor
+Upbeat Youngling 	
+Upbeat Youngling.png
+	You can just SMELL the positivity! 	Credit.png 4250 Credits
+
+Umanite 75 Umanite
+Enor pearl 30 Enor Pearl
+	Credit.png 4100 Credits
+
+Umanite 70 Umanite
+Magnite 35 Magnite
+	Credit.png 4750 Credits
+
+Umanite 70 Umanite
+Jadiz 30 Jadiz
+	Credit.png 4350 Credits
+
+Croppa 60 Croppa
+Bismor 30 Bismor
+Valiant Berserker 	
+Valiant Berserker.png
+	For when the Anger Management Course tells you that it's okay and in the Company's favor to be angry. 	Credit.png 6100 Credits
+
+Magnite 145 Magnite
+Bismor 40 Bismor
+Croppa 85 Croppa
+	Credit.png 8650 Credits
+
+Magnite 145 Magnite
+Bismor 55 Bismor
+Enor pearl 85 Enor Pearl
+	Credit.png 7500 Credits
+
+Magnite 160 Magnite
+Enor pearl 40 Enor Pearl
+Croppa 95 Croppa 
+	Credit.png 8100 Credits
+
+Croppa 155 Croppa
+Jadiz 55 Jadiz
+Magnite 95 Magnite 

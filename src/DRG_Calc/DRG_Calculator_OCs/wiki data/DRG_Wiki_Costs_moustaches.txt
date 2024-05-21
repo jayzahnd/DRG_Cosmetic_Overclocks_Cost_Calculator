@@ -1,0 +1,219 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----Moustache----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bangled Braids 	
+Bangled Braids.png
+	Mum left you those bangles. And by gum, you are going to wear them! 	Credit.png 6250 Credits
+
+Bismor 140 Bismor
+Magnite 60 Magnite
+Enor pearl 80 Enor Pearl
+	Credit.png 7150 Credits
+
+Magnite 160 Magnite
+Umanite 55 Umanite
+Enor pearl 95 Enor Pearl
+	Credit.png 7850 Credits
+
+Bismor 145 Bismor
+Enor pearl 45 Enor Pearl
+Croppa 100 Croppa
+	Credit.png 8250 Credits
+
+Bismor 160 Bismor
+Croppa 45 Croppa
+Umanite 100 Umanite
+Bound Braids 	
+Bound Braids.png
+	A timeless classic for the full-moustachioed gentleman. 	Credit.png 8650 Credits
+
+Bismor 140 Bismor
+Enor pearl 45 Enor Pearl
+Jadiz 100 Jadiz
+	Credit.png 8500 Credits
+
+Jadiz 155 Jadiz
+Umanite 45 Umanite
+Magnite 95 Magnite
+	Credit.png 6300 Credits
+
+Umanite 160 Umanite
+Magnite 50 Magnite
+Enor pearl 95 Enor Pearl
+	Credit.png 7250 Credits
+
+Jadiz 155 Jadiz
+Bismor 60 Bismor
+Magnite 95 Magnite
+Bushy Goodguy 	
+Bushy Good Guy.png
+	Lots of huffing and puffing is required to wear this one. 	Credit.png 4900 Credits
+
+Umanite 70 Umanite
+Croppa 35 Croppa
+	Credit.png 4800 Credits
+
+Bismor 60 Bismor
+Jadiz 30 Jadiz
+	Credit.png 4350 Credits
+
+Bismor 75 Bismor
+Jadiz 30 Jadiz
+	Credit.png 4800 Credits
+
+Enor pearl 60 Enor Pearl
+Croppa 30 Croppa
+Crescent Moon 	
+Crescent Moon.png
+	Bask in the radiance. 	Credit.png 4500 Credits
+
+Magnite 35 Magnite
+Bismor 60 Bismor
+	Credit.png 4350 Credits
+
+Jadiz 35 Jadiz
+Bismor 70 Bismor
+	Credit.png 4950 Credits
+
+Umanite 70 Umanite
+Magnite 35 Magnite
+	Credit.png 4150 Credits
+
+Enor pearl 70 Enor Pearl
+Bismor 30 Bismor
+Curly Optimist 	
+Curly Optimist.png
+	For when every day is just topsy-turvy! 	Credit.png 8500 Credits
+
+Jadiz 155 Jadiz
+Umanite 50 Umanite
+Magnite 100 Magnite
+	Credit.png 6350 Credits
+
+Umanite 140 Umanite
+Enor pearl 45 Enor Pearl
+Magnite 100 Magnite
+	Credit.png 8900 Credits
+
+Bismor 150 Bismor
+Magnite 60 Magnite
+Enor pearl 95 Enor Pearl
+	Credit.png 7000 Credits
+
+Croppa 145 Croppa
+Umanite 60 Umanite
+Bismor 95 Bismor
+Dandy Handlebar 	
+Dandy Handlebar.png
+	What ho, old sport? A good choice for the discerning dwarf. 	Credit.png 5000 Credits
+
+Umanite 80 Umanite
+Jadiz 35 Jadiz
+	Credit.png 4100 Credits
+
+Magnite 75 Magnite
+Enor pearl 35 Enor Pearl
+	Credit.png 4100 Credits
+
+Bismor 75 Bismor
+Enor pearl 25 Enor Pearl
+	Credit.png 4850 Credits
+
+Jadiz 65 Jadiz
+Enor pearl 30 Enor Pearl
+Exquisite Handlebar 	
+Exquisite Handlebar.png
+	Dapper! For those long, philosophical evenings of discussing the proper use of elf ears in everyday life. 	Credit.png 4650 Credits
+
+Croppa 80 Croppa
+Jadiz 25 Jadiz
+	Credit.png 4500 Credits
+
+Umanite 70 Umanite
+Enor pearl 30 Enor Pearl
+	Credit.png 4800 Credits
+
+Jadiz 65 Jadiz
+Magnite 30 Magnite
+	Credit.png 4950 Credits
+
+Croppa 65 Croppa
+Magnite 30 Magnite
+Lowrider 	
+Lowrider.png
+	A no-nonsense moustache for a no-nonsense dwarf. 	Credit.png 4050 Credits
+
+Jadiz 65 Jadiz
+Umanite 30 Umanite
+	Credit.png 4200 Credits
+
+Enor pearl 75 Enor Pearl
+Croppa 30 Croppa
+	Credit.png 4600 Credits
+
+Bismor 65 Bismor
+Croppa 30 Croppa
+	Credit.png 4050 Credits
+
+Jadiz 80 Jadiz
+Enor pearl 30 Enor Pearl
+Magnificent Raider 	
+Magnificent Raider.png
+	Bushy and fierce - bound to strike terror into the hearts of anyone in your path! 	Credit.png 7800 Credits
+
+Bismor 150 Bismor
+Enor pearl 60 Enor Pearl
+Magnite 85 Magnite
+	Credit.png 6700 Credits
+
+Jadiz 150 Jadiz
+Enor pearl 50 Enor Pearl
+Croppa 95 Croppa
+	Credit.png 8850 Credits
+
+Magnite 160 Magnite
+Jadiz 45 Jadiz
+Bismor 85 Bismor
+	Credit.png 6100 Credits
+
+Bismor 155 Bismor
+Magnite 40 Magnite
+Croppa 100 Croppa
+Marshall 	
+Marshall.png
+	For some reason, this one makes you yearn for wearing denim...? 	Credit.png 4100 Credits
+
+Jadiz 65 Jadiz
+Umanite 30 Umanite
+	Credit.png 4300 Credits
+
+Bismor 75 Bismor
+Jadiz 30 Jadiz
+	Credit.png 4800 Credits
+
+Enor pearl 60 Enor Pearl
+Bismor 25 Bismor
+	Credit.png 4100 Credits
+
+Jadiz 80 Jadiz
+Bismor 25 Bismor
+Spiky Neurotic 	
+Spiky Neurotic.png
+	I think that's enough coffee for one day. 	Credit.png 4850 Credits
+
+Croppa 70 Croppa
+Magnite 35 Magnite
+	Credit.png 4250 Credits
+
+Bismor 80 Bismor
+Jadiz 35 Jadiz
+	Credit.png 4500 Credits
+
+Magnite 80 Magnite
+Jadiz 30 Jadiz
+	Credit.png 4700 Credits
+
+Croppa 65 Croppa
+Umanite 30 Umanite 
+
