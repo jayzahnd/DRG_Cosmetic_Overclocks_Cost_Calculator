@@ -3,11 +3,55 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <array>
 #include <sstream>
 #include <unordered_map>
 #include <algorithm>
 
-#include "Resource_cost_calculator.h"
+#include "ResourceCostCalculator.h"
+
+
+//std::string const constantNames::counterRef = "Credit.png";
+//
+//std::string const constantNames::creditsName = "Credits";
+//std::string const constantNames::croppaName = "Croppa";
+//std::string const constantNames::jadizName = "Jadiz";
+//std::string const constantNames::magniteName = "Magnite";
+//std::string const constantNames::umaniteName = "Umanite";
+//std::string const constantNames::enorPearlName = "Enor Pearl";
+//std::string const constantNames::bismorName = "Bismor";
+
+std::array<std::string, 5> const dwarves
+{
+    "all 4 dwarves",
+    "the Driller",
+    "the Engineer",
+    "the Gunner",
+    "the Scout"
+};
+std::array<std::string, 7> const cosmeticTypes
+{
+    "all",
+    "headgear",
+    "moustaches",
+    "beards",
+    "sideburns",
+    "poses",
+    "paintjobs"
+};
+
+
+
+std::unordered_map<std::string, int> playerResources =
+{
+    {constantNames::creditsName, 0},		// Try "Credit.png" in case of problem
+    {constantNames::croppaName, 0},
+    {constantNames::jadizName, 0},
+    {constantNames::magniteName, 0},
+    {constantNames::umaniteName, 0},
+    {constantNames::enorPearlName, 0},
+    {constantNames::bismorName, 0}
+};
 
 void checkForKeyAndAdd(std::unordered_map<std::string, int>& umap, std::string keyStr)
 {
@@ -41,13 +85,13 @@ void countItems(std::string line, int& counter)
     // extract all words separated by white space
     while (iss >> word) {
         // compare with wanted
-        if (counterRef == word) {  // counterRef is "Credit.png", so it will always return the total item count
+        if (constantNames::counterRef == word) {  // counterRef is "Credit.png", so it will always return the total item count
             ++counter;
         }
     }
 }
 
-bool isCountedToAdd(int currentCount, int dwarfClass)
+bool canItBeAdded(int currentCount, int dwarfClass)
 {
     // -1 : all classes
     // dwarfclass is modulo 4 with :
@@ -121,7 +165,7 @@ void ProcessFile(std::fstream& dataFile, std::string fileName)
             countItems(currentLine, itemCount);
 
             // Search string that corresponds to an existing key. If found, and if class corresponds, add the number on that line to the value.                
-            if (isCountedToAdd(itemCount, DwarfClass)) {
+            if (canItBeAdded(itemCount, DwarfClass)) {
                 checkForKeyAndAdd(playerResources, currentLine);
             }
         }
@@ -131,6 +175,9 @@ void ProcessFile(std::fstream& dataFile, std::string fileName)
 
 int main()
 {
+    dwarvesLength = dwarves.size();
+    cosmeticTypesLength = cosmeticTypes.size();
+
     std::fstream wikiDataFileStream;
     std::cout << "Hit Return key to continue. \n";
 
@@ -169,13 +216,13 @@ int main()
 
         std::cout << " \n";
         std::cout << "Total cost: \n";
-        std::cout << creditsName << " : " << playerResources[creditsName] << std::endl;
-        std::cout << croppaName << " : " << playerResources[croppaName] << std::endl;
-        std::cout << jadizName << " : " << playerResources[jadizName] << std::endl;
-        std::cout << magniteName << " : " << playerResources[magniteName] << std::endl;
-        std::cout << umaniteName << " : " << playerResources[umaniteName] << std::endl;
-        std::cout << enorPearlName << " : " << playerResources[enorPearlName] << std::endl;
-        std::cout << bismorName << " : " << playerResources[bismorName] << std::endl;
+        std::cout << constantNames::creditsName << " : " << playerResources[constantNames::creditsName] << std::endl;
+        std::cout << constantNames::croppaName << " : " << playerResources[constantNames::croppaName] << std::endl;
+        std::cout << constantNames::jadizName << " : " << playerResources[constantNames::jadizName] << std::endl;
+        std::cout << constantNames::magniteName << " : " << playerResources[constantNames::magniteName] << std::endl;
+        std::cout << constantNames::umaniteName << " : " << playerResources[constantNames::umaniteName] << std::endl;
+        std::cout << constantNames::enorPearlName << " : " << playerResources[constantNames::enorPearlName] << std::endl;
+        std::cout << constantNames::bismorName << " : " << playerResources[constantNames::bismorName] << std::endl;
         std::cout << " \n";
     }
     return 0;
