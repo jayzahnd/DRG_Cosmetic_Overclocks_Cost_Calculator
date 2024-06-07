@@ -37,20 +37,14 @@ int DwarfClass = -2;
 // 2 : Gunner
 // 3 : Scout
 
-bool isNumericValue(std::string input)
-{
-	for (int i = 0; i < input.length(); i++) {
-		if (!isdigit(input[i])) {
-			return false;
-		}
-	}
-	return true;
-}
-
 void checkForKeyAndAdd(std::unordered_map<std::string, int>& umap, std::string keyStr);
 
+// Scans the line. If it finds "Credit.png", add 1 to the item counter.
 void countItems(std::string line, int& counter);
 
+bool isNumericValue(std::string input);
+
+// Add if it corresponds to the class or classes we wish to examine.
 bool canItBeAdded(int currentCount, int dwarfClass);
 
 int AskWhichDwarfClassToAnalyse(int& dwarfClass);

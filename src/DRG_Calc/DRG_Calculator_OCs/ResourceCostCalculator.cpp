@@ -91,6 +91,16 @@ void countItems(std::string line, int& counter)
     }
 }
 
+bool isNumericValue(std::string input)
+{
+    for (int i = 0; i < input.length(); i++) {
+        if (!isdigit(input[i])) {
+            return false;
+        }
+    }
+    return true;
+}
+
 bool canItBeAdded(int currentCount, int dwarfClass)
 {
     // -1 : all classes
